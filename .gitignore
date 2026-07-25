@@ -1,0 +1,6 @@
+# Throwaway icon-design comparison sheet — not part of the app
+icons-preview/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
