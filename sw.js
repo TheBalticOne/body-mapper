@@ -2,7 +2,7 @@
 // The app makes no network requests beyond loading these static files, so a
 // simple cache-first strategy is enough. To ship an update, bump CACHE below;
 // the old cache is deleted on activate and clients pick up the new files.
-const CACHE = 'bm-v1';
+const CACHE = 'bm-v2';
 const ASSETS = [
   './',
   'index.html',
